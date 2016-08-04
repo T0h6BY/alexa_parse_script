@@ -1,0 +1,5 @@
+netlink.by ; 0
+onliner.by ; 1,162
+tut.by ; 1,401
+mail.ru ; 33
+google.com ; 1
